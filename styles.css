@@ -1,6 +1,12 @@
 h1 {
    color: red;
+   background-color: blue;
 }
+
+h2 {
+   background-color: green;
+}
+
 body {
    background-color: blueviolet;
 }
